@@ -14,5 +14,4 @@ My research interest includes high dimensional statistics and M-estimator.
 
 Contact
 ======
-liushixiang_stat@ruc.edu.cn
-
+[Email](liushixiang_stat@ruc.edu.cn)
